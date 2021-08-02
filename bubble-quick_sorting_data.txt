@@ -1,0 +1,21 @@
+1, IPhone12, Green, 128GB, 1155000, 50
+16, Galaxy S20, Black, 64GB, 900000, 20
+3, IPhone12 PRO, Pacific Blue, 128GB, 1450000, 100
+7, IPhone11, White, 64GB, 950000, 20
+12, IPhone12 PRO MAX, Pacific Blue, 256GB, 1500000, 120
+9, IPhone12 MINI, White, 64GB, 900000, 19
+20, Galaxy Note 20, Red, 128GB, 1100000, 56
+5, Galaxy S20, Silver, 128GB, 930000, 10
+14, Galaxy Note 10, Black, 64GB, 920000, 28
+21, IPhoneXR, Black, 64GB, 900000, 5
+18, IPhoneXS, Silver, 128GB, 970000, 20
+6, IPhone8 Plus, Rose Gold, 64GB, 810000, 3
+17, IPhone6S Plus, Space Gray, 32GB, 600000, 2
+10, Galaxy Note 10, Silver, 64GB, 900000, 30
+2, Galaxy Note 20, Silver, 128GB, 1100000, 55
+4, Galaxy S10, Silver, 64GB, 800000, 8
+8, IPhone12 PRO, Black, 256GB, 1450000, 20
+11, IPhone7 Plus, Silver, 128GB, 800000, 2
+19, Galaxy Note 20, Silver, 64GB, 990000, 34
+13, IPhoneXS, Space Gray, 64GB, 970000, 27
+15, IPhone12 MINI, Green, 64GB, 900000, 70
